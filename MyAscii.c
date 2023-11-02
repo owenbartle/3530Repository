@@ -7,4 +7,5 @@ int main() {
     printf("ASCII value of %c = %d", c, c);
     
     return 0;
+    printf("I love my girlfriend so much!!");
 }
